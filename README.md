@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yousongzhang
 - 👀 I’m interested in Apps development. 
 - 🌱 I’m currently learning nodejs/nestjs. 
-- 💞️ I’m looking to collaborate on App marketing. 
+- 💞️ I’m looking to collaborate on App and Web. 
 - 📫 How to reach me : https://www.linkedin.com/in/yousong-zhang-605b072b/
 
 <!---
